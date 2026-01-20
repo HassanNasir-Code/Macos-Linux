@@ -195,4 +195,16 @@ bashsudo apt update && sudo apt upgrade
 here are images of the processes
 <img width="2568" height="1514" alt="image" src="https://github.com/user-attachments/assets/e972e2ed-f5f2-43cf-88e3-a350300ebc6b" />
 
+<img width="1247" height="810" alt="Screenshot 2026-01-20 at 17 39 39" src="https://github.com/user-attachments/assets/16cf5f92-2bec-4790-ab3f-5dafd831952c" />
+
+<img width="1268" height="828" alt="Screenshot 2026-01-20 at 17 38 03" src="https://github.com/user-attachments/assets/a445e986-255a-43de-86bc-a2b79b6f8bdf" />
+
+<img width="1267" height="814" alt="Screenshot 2026-01-20 at 17 37 40" src="https://github.com/user-attachments/assets/15623e3b-6d26-4816-a1f2-cd68a11bbc0b" />
+
+<img width="1243" height="820" alt="Screenshot 2026-01-20 at 17 37 18" src="https://github.com/user-attachments/assets/f3411501-5dc0-48c5-b9cc-880425ace657" />
+
+<img width="1248" height="820" alt="Screenshot 2026-01-20 at 17 35 31" src="https://github.com/user-attachments/assets/927a9556-7a45-4462-8e95-afbe5b41d76f" />
+
+
+
 
