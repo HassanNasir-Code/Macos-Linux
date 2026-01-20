@@ -205,6 +205,7 @@ here are images of the processes
 
 <img width="1248" height="820" alt="Screenshot 2026-01-20 at 17 35 31" src="https://github.com/user-attachments/assets/927a9556-7a45-4462-8e95-afbe5b41d76f" />
 
+<img width="1273" height="833" alt="image" src="https://github.com/user-attachments/assets/c8172300-baea-48e1-b257-75f5eb24b808" />
 
 
 
